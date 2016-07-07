@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+    <id>livesportws</id>
+    <name>Livesportws</name>
+    
+    <active>true</active>
+    <adult>false</adult>
+    <language>es</language>
+    
+    <fanart></fanart>
+    <thumbnail>http://s6.postimg.org/ug2z4wm1d/livesportlogo.jpg</thumbnail>
+    <bannermenu></bannermenu>
+    
+    <update_url></update_url>
+    <version>3</version>
+    <date>25/05/2016</date>
+    <changes>Córrecion etiqueta live(Se me colo otra vez el life en la última actualización)</changes>
+    
+    <categories>
+        <category>deportes</category>
+        
+    </categories>
+    
+    <settings>
+        <include_in_global_search>false</include_in_global_search>
+    </settings>
+</channel>

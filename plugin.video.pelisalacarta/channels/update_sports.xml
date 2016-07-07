@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>update_sports</id>
+	<name>Actualizador Mod Deportes</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://i.imgur.com/4vQwJwy.png?1</thumbnail>
+	<bannermenu></bannermenu>
+
+	<update_url></update_url>
+	<version>0.27</version>
+	<date>25/05/2016</date>
+	<changes>Nuevo canal Sport7. Invertido orden plexus/p2p-streams si calidad alta.</changes>
+
+	<categories>
+		<category>all</category>
+		<category>deportes</category>
+	</categories>
+
+	<settings>
+		<include_in_global_search>false</include_in_global_search>
+	</settings>
+</channel>

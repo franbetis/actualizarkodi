@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.Activador.PLD-Visiontv" name="[COLOR green]Activador PLD-Visiontv[/COLOR]" version="2.2.0.7" provider-name="[COLOR blue]ProyectoLuzDigital[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.1"/>
+	<import addon="script.module.beautifulsoup" version="3.2.1"/>
+  <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Activador para PLD-Visiontv [COLOR blue]ProyectoLuzDigital[/COLOR]</summary>
+    <description>Activador PLD-Visiontv para [COLOR blue]ProyectoLuzDigital[/COLOR]. Creado por El grupo PLD </description>
+    <platform>all</platform>
+  </extension>
+</addon>

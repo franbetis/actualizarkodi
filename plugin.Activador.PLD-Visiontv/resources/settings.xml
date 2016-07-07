@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Activador PLD-Visiontv login">
+	    <setting label="Introduzca usuario y contraseña de ProyectoLuzDigital y vuelva a Activar" type="lsep" visible="true" />
+	    <setting id="use-account" type="bool" label="Usar Codigo de PROYECTOLUZDIGITAL?" default="true" visible="false" />
+		<setting id="username" type="text" label="Username" default="" />
+		<setting id="password" type="text" label="Password" option="hidden" default="" />
+		<setting id="message" type="bool" label="INTRO Message" default="true" visible="false" />
+		<setting id="intro" type="bool" label="INTRO Video" default="false" visible="false" />
+		<setting id="hide-successful-login-messages" type="bool" label="Desactivar Notificaciones?" default="false" enable="true"/>
+	</category>
+</settings>
